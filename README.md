@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Raymond
 
-I'm an aspiring SOC Analyst with a background in linguistics and healthcare,
+I'm an aspiring SOC Analyst with a background in Education.
 currently transitioning into cybersecurity.
 
 ## 🔐 Cybersecurity Focus
@@ -13,7 +13,7 @@ currently transitioning into cybersecurity.
 ## 📜 Certifications
 - Google Cybersecurity Certificate
 - CompTIA Security+
-- (In progress) CySA+
+- CompTIA Network+
 
 ## 🧪 What you'll find here
 - SOC lab walkthroughs
